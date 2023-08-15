@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+
+.body-content{
+    justify-content: center;
+}
+.img-wh{
+    width:110px;
+    height:120px;
+    border-radius: 10px;
+    padding-right: 5px;
+}
+.headr1{
+    color:rgb(41, 123, 255);
+    background-color: white;
+}
+.headr2{
+    color:rgb(45, 203, 79);
+    background-color: white;
+}
+.headr3{
+    color:rgb(251, 41, 255);
+    background-color: white;
+}
+.headr4{
+    color:rgb(239, 118, 118);
+    background-color: white;
+}
